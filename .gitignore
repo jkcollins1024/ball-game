@@ -1,3 +1,6 @@
 #ignore all build objects
 Debug
 Release
+
+#Visual Studio specifics
+.vs
